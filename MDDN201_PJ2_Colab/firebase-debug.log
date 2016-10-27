@@ -1,0 +1,28 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Chris\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.8
+[debug] Platform:     win32
+[debug] Node Version: v6.9.1
+[debug] Time:         Fri Oct 28 2016 01:56:06 GMT+1300 (New Zealand Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Chris\Desktop\ChrisAncheta_MDDN201_P2\MDDN201_PJ2_Colab
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Chris\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.8
+[debug] Platform:     win32
+[debug] Node Version: v6.9.1
+[debug] Time:         Fri Oct 28 2016 02:22:55 GMT+1300 (New Zealand Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: C:\Users\Chris\Desktop\ChrisAncheta_MDDN201_P2\MDDN201_PJ2_Colab
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
